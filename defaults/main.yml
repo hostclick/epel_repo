@@ -1,0 +1,5 @@
+---
+# defaults file for epel_repo
+
+#epel_repo_testing:
+epel_repo_remi: 'disabled'

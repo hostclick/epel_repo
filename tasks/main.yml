@@ -1,0 +1,5 @@
+---
+# tasks file for epel_repo
+- name: Install epel repository
+  yum: name=epel-release state=installed
+  tags: epel
